@@ -1,7 +1,7 @@
 # Comparative Study Between Ensemble Learning and Evolutionary Learning to Solve the Higgs Boson Detection
 
 ## Authors:
-- Ahmed MAALOUL
+- Ahmed Maaloul
 
 ## Environment:
 - Google Colab with GPU enabled (T4) for accelerated computation.
