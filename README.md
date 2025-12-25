@@ -2,7 +2,6 @@
 
 ## Authors:
 - Ahmed MAALOUL
-- Aksel YILMAZ
 
 ## Environment:
 - Google Colab with GPU enabled (T4) for accelerated computation.
